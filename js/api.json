@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 3600,
+      "id": 1,
+      "title": "Remera",
+      "thumbnailUrl": "https://http2.mlstatic.com/D_NQ_NP_609331-MLA31050047143_062019-O.jpg"
+    },
+    {
+      "precio": 15000,
+      "id": 2,
+      "title": "Zapatillas",
+      "thumbnailUrl": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1637516446-41-Gfm1WRTL._SL500_.jpg?crop=1xw:0.990xh;center,top&resize=480:*"
+    },
+    {
+      "precio": 5000,
+      "id": 3,
+      "title": "Pantalon corto",
+      "thumbnailUrl": "https://m.media-amazon.com/images/I/31Wd4X6GrQS._SL500_.jpg"
+    },
+    {
+      "precio": 6350,
+      "id": 4,
+      "title": "Mancuernas",
+      "thumbnailUrl": "https://images.fravega.com/f300/903bf7bf1e933a02ad7337207caeecc2.jpg.webp"
+    },
+    {
+      "precio": 8000,
+      "id": 5,
+      "title": "Barras",
+      "thumbnailUrl": "https://tienda.gfitness.com.ar/web/image/product.image/941/image_1024/PORTABARRAS%20DE%20PARED?unique=e27890b"
+    },
+    {
+      "precio": 4500,
+      "id": 6,
+      "title": "Discos",
+      "thumbnailUrl": "https://gimnasioencasa.net/wp-content/uploads/2018/01/pesas-decathlon.jpg"
+    }
+  ]
